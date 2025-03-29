@@ -1,0 +1,3 @@
+Hi count the frequncy of words
+words words
+count it !
